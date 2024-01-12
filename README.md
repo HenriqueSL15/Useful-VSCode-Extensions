@@ -4,5 +4,5 @@
 <hr>
 <strong><h2>List:</h2></strong>
 <ul>
-  <li><a href="https://marketplace.visualstudio.com/items?itemName=humao.rest-client" target="_blank">REST Client</a></li>
+  <li><a href="https://marketplace.visualstudio.com/items?itemName=humao.rest-client" target="_blank">REST Client: </a>This extension allows you to send HTTP request and view the response in Visual Studio Code directly and easily!</li>
 </ul>
